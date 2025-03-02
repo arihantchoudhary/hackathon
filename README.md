@@ -9,3 +9,6 @@ Key features:
 * use the analysis results to perform future recommendation
 * modular software architecture for good experimentation of different LLM, different prompting, different algorithms
 * open source and make it available to all
+
+
+Video: https://drive.google.com/file/d/1INNw7MoSZ1BkgFyJ_XUJVrrBpUGXi6vV/view?usp=drivesdk
